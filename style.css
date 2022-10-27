@@ -284,6 +284,7 @@ img {
 
 .about__img {
   justify-self: center;
+  margin-right: 10px;
 }
 
 .about__img img {
